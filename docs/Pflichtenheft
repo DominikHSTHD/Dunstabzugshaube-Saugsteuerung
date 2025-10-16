@@ -1,31 +1,30 @@
 Domäne: Haushaltstechnik
 
 Angeforderte Funktionen:
-1. Ausschalten
-  - Wenn der Aus-Knopf gedrückt wird, stellt die Dunstabzugshaube den momentanen Modus aus (dazugehörigner Knopf rastet aus) und stellt die Power auf aus.
+Req. 1. Ausschalten
+        - Wenn der Aus-Knopf gedrückt wird, stellt die Dunstabzugshaube den momentanen Modus aus (dazugehörigner Knopf rastet aus) und stellt die Power auf aus.
 
-2. Anschalten:
-  - 
-  - Wenn der An-Knopf gedrückt wurde, stellt die Dunstabzugshaube die Power an.
+Req. 2. Anschalten:
+        - Wenn der An-Knopf gedrückt wurde, stellt die Dunstabzugshaube die Power an.
 
-3. Prüfen ob Angeschaltet:
-  - Wenn ein Modus-Knopf gedrückt wird, prüft das System ob die Dunstabzugshaube angeschaltet ist.
-      Falls die Dunstabzugshaube aus ist, geschiet nichts und der Modus-Knopf geht wieder ganz raus.
-      Falls die Dunstabzugshaube an ist, wird der Modus des betätigten Knopes aktiviert und der betätigte Modus-Knopf rastet ein.
+Req. 3. Prüfen ob Angeschaltet:
+        - Wenn ein Modus-Knopf gedrückt wird, prüft das System ob die Dunstabzugshaube angeschaltet ist.
+            Falls die Dunstabzugshaube aus ist, geschiet nichts und der Modus-Knopf geht wieder ganz raus.
+            Falls die Dunstabzugshaube an ist, wird der Modus des betätigten Knopes aktiviert und der betätigte Modus-Knopf rastet ein.
 
-4. Modus aktivieren:
-  - Wenn bestägt wurde, dass die Dunstabzugshaube angeschaltet ist und ein Modus-Knopf gedrückt wurde, 
-    werden mögliche Knflikte überprüft und dann der Modus aktiviert (falls nötig). 
-  - Der Knopf des momentan gewählten Modus rastet tiefer ein. 
-  - Der Übergang zwischen Modi muss innerhalb von einer Sekunde passieren.
-    - Wenn der Stufe-1-Knopf gedrückt wird, saugt die Dunstabzugshaube mit leichter Stärke den Dunst ab.
-    - Wenn der Stufe-2-Knopf gedrückt wird, saugt die Dunstabzugshaube mit großer Stärke den Dunst ab.
-    - Wenn der Leise-Knopf gedrückt wird, saugt die Dunstabzugshaube mit sehr leichter Stärke (schwacher als Stufe-1) den Dunst ab und erzeugt damit möglichst wenig Geräusche.
+Req. 4. Modus aktivieren:
+        - Wenn ein Modus Knopf gedrückt wurde, dass die Dunstabzugshaube angeschaltet ist und ein Modus-Knopf gedrückt wurde, 
+          werden mögliche Knflikte überprüft und dann der Modus aktiviert (falls nötig). 
+        - Der Knopf des momentan gewählten Modus rastet tiefer ein. 
+        - Der Übergang zwischen Modi muss innerhalb von einer Sekunde passieren.
+          - Wenn der Stufe-1-Knopf gedrückt wird, saugt die Dunstabzugshaube mit leichter Stärke den Dunst ab.
+          - Wenn der Stufe-2-Knopf gedrückt wird, saugt die Dunstabzugshaube mit großer Stärke den Dunst ab.
+          - Wenn der Leise-Knopf gedrückt wird, saugt die Dunstabzugshaube mit sehr leichter Stärke (schwacher als Stufe-1) den Dunst ab und erzeugt damit möglichst wenig Geräusche.
 
-5. Konflikt prüfen:
-  - Wenn ein Modus Knopf gedrückt wird und die Dunstabzugshaube angeschaltet ist wird überprüft ob ein Konflikt mit einem bereits aktiviertem Modus besteht.
-    - Falls ein Modus bereits aktiviert ist und ein anderer Modi-Knopf gedrückt wird, wird der davor aktivierte Modus ausgeschaltet und der gewählte Modus wird aktiviert.
-    - Falls ein Modus bereits aktiviert ist und auf deseen eingerasteten Knopf gedrückt wird, ändert sich nichts.
+Req. 5. Konflikt prüfen:
+        - Wenn ein Modus Knopf gedrückt wird und die Dunstabzugshaube angeschaltet ist wird überprüft ob ein Konflikt mit einem bereits aktiviertem Modus besteht.
+          - Falls ein Modus bereits aktiviert ist und ein anderer Modi-Knopf gedrückt wird, wird der davor aktivierte Modus ausgeschaltet und der gewählte Modus wird aktiviert.
+          - Falls ein Modus bereits aktiviert ist und auf deseen eingerasteten Knopf gedrückt wird, ändert sich nichts.
 
 
 Bedingungen:
