@@ -31,5 +31,6 @@ Angeforderte Funktionen:
 Bedingungen:
  3 -> 4 (Dunstabzugshaube muss an sein, damit Abzugs-Modus aktiviert wird)  
  3 -> 5 (Dunstabzugshaube muss an sein, damit Konflikte bei Modi überprüft werden.)
+ 4 -> 5 (Ein Modus-Knopf muss aktiviert/gedrückt werden, damit Konflikte geprüft werden.)
 
 Alle fünf Requierements sind Muss-Bedingungen.
