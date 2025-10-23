@@ -21,9 +21,9 @@ Funktionale Requierements:
     R 4.1: Es muss geprüft werden ob die Power angeschalten ist, falls nein passiert nichts
     R 4.2: Es muss auf Überschneidung geprüft werden
     R 4.4: Der bisher aktivierte Modus muss deaktiviert werden
-    R 4.7: Bei Aktivieren des Leise Modus, muss die Dunstabzugshaube mit 25 Watt aktiviert werden und der Knopf einrasten
-    R 4.8: Bei Aktivieren der Stufe 1, muss die Dunstabzugshaube mit 50 Watt aktiviert werden und der Knopf einrasten
-    R 4.9: Bei Aktivieren der Stufe 2, muss die Dunstabzugshaube mit 75 Watt aktiviert werden und der Knopf einrasten
+    R 4.7: Bei Aktivieren des Leise Modus, muss der Rotor mit 25 Watt aktiviert werden und der Leise Modus Knopf einrasten
+    R 4.8: Bei Aktivieren der Stufe 1, muss der Rotor mit 50 Watt aktiviert werden und der Stufe 1 Knopf einrasten
+    R 4.9: Bei Aktivieren der Stufe 2, muss der Rotor mit 75 Watt aktiviert werden und der Stufe 2 Knopf einrasten
 
     R 5.1: Es muss geprüft werden welcher Modus bisher aktiviert ist
     R 5.2: Bisheriger Modus muss mit Modus der aktiviert werden soll verglichen werden
