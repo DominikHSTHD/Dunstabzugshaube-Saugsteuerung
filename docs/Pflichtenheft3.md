@@ -11,33 +11,36 @@ Teilfunktionen:
 
 Funktionale Requierements:
 
-    R 1.1: Abstellen der Power
+    R 1.1: Die Power der Dunstabzugshaube muss abgestellt werden
 
-    R 2.1: Anschalten der Power
+    R 2.1: Die Power der Dunstabzugshaube muss angeschalten werden
 
-    R 3.1: Prüfen ob die Dunstagszugshaube aktiv angeschaltet ist
-    R 3.2: Okay Signal zurückgeben, falls Power angeschalten
+    R 3.1: Es muss geprüft werden ob die Dunstagszugshaube aktiv angeschaltet ist
+    R 3.2: Ein "Okay" Signal muss zurückgeben werden, falls die Power aktiv angeschalten ist
 
-    R 4.1: Anfragen ob Power angeschaltet ist und 
-    R 4.2: Überschneidung prüfen
-    R 4.3: Bei Überschneidung keine Veränderung vornehmen
-    R 4.4: Bisheriger Modus wird deaktiviert
-    R 4.7: Bei Leise Modus, aktivieren der Dunstabzugshaube mit 25 Watt und Knopf einrasten lassen
-    R 4.8: Bei Stufe 1, aktivieren der Dunstabzugshaube mit 50 Watt und Knopf einrasten lassen
-    R 4.9: Bei Stufe 2, aktivieren der Dunstabzugshaube mit 75 Watt und Knopf einrasten lassen
+    R 4.1: Es muss geprüft werden ob die Power angeschalten ist, falls nein passiert nichts
+    R 4.2: Es muss auf Überschneidung geprüft werden
+    R 4.4: Der bisher aktivierte Modus muss deaktiviert werden
+    R 4.7: Bei Aktivieren des Leise Modus, muss die Dunstabzugshaube mit 25 Watt aktiviert werden und der Knopf einrasten
+    R 4.8: Bei Aktivieren der Stufe 1, muss die Dunstabzugshaube mit 50 Watt aktiviert werden und der Knopf einrasten
+    R 4.9: Bei Aktivieren der Stufe 2, muss die Dunstabzugshaube mit 75 Watt aktiviert werden und der Knopf einrasten
 
-    R 5.1: Angeben welcher Modus gerade aktiviert ist
-    R 5.2: Vergleichen mit Modus der aktiviert werden soll
-    R 5.3: Bei gleichen Modi, Überschneidungssignal zurückgeben
+    R 5.1: Es muss geprüft werden welcher Modus bisher aktiviert ist
+    R 5.2: Bisheriger Modus muss mit Modus der aktiviert werden soll verglichen werden
+    R 5.3: Bei gleichen Modi, muss ein Überschneidungssignal zurückgeben werden
 
 Nicht-Funktionale Requierements:
 
-    R 1.2: Alle Knöpfe ausrasten
+    R 1.2: Alle Knöpfe sollen ausrasten
+    R 1.3: Der Rotor soll von selbst langsam abbremsen
 
-    R 4.5: Bisheriger Modus Knopf ausrasten
-    R 4.6: Wechsel innerhalb von einer Sekunde
+    R 2.2: Falls die Power schon an ist soll nichts anderes passieren
 
-    R 6: Programmierung in C
+    R 4.3: Bei Überschneidung soll keine Veränderung vorgenehmen werden
+    R 4.5: Der Knopf des bisher aktiven Modus soll ausrasten
+    R 4.6: Der Moduswechsel soll innerhalb von einer Sekunde passieren
+
+    R 6: Die Programmierung soll in C passieren
 
 
 Bedingungen:
