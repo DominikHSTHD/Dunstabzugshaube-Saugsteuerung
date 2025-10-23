@@ -6,7 +6,7 @@ Teilfunktionen:
     2. Anschalt-Funktion
     3. Powermodus Prüfungs Funktion
     4. Saugmodus Aktivierungs Funktion
-    5. Überschneidungen prüfen
+    5. Überschneidungstest Funktion
 
 
 Funktionale Requierements:
