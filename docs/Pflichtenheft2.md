@@ -37,11 +37,12 @@ Nicht-Funktionale Requierements:
     R 4.5: Bisheriger Modus Knopf ausrasten
     R 4.6: Wechsel innerhalb von einer Sekunde
 
-R 6: Programmierung in C
+    R 6: Programmierung in C
 
 
 Bedingungen:
-R 4.1 -> R 4.7/4.8/4.9 Power muss aktiv angeschaltet worden sein, damit ein Modus aktiviert wird
+
+    R 4.1 -> R 4.7/4.8/4.9 Power muss aktiv angeschaltet worden sein, damit ein Modus aktiviert wird
 
 
 Konflikte:
