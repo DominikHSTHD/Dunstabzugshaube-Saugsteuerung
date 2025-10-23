@@ -1,11 +1,11 @@
 Domäne: Haushaltstechnik
 
 Requierements:
-Req. 1. Abstell-Funktion
-Req. 2. Anschalt-Funktion
-Req. 3. Powermodus Prüfungs Funktion
-Req. 4. Saugmodus Aktivierungs Funktion
-Req. 5. Überschneidungen prüfen
+    Req. 1. Abstell-Funktion
+    Req. 2. Anschalt-Funktion
+    Req. 3. Powermodus Prüfungs Funktion
+    Req. 4. Saugmodus Aktivierungs Funktion
+    Req. 5. Überschneidungen prüfen
 
 
 Funktionale Requierements:
