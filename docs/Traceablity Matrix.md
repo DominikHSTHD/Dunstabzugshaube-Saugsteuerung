@@ -1,4 +1,6 @@
-| **Komponente**      | **Requirements**                                                                          | **Klassen**                                                                          | **Schnittstelle**                                                                          |
+# Traceability Matrix:
+
+| **Komponente**      | **Requirements**                                                                          | **Klassen**                                                                                                                                              |
 |---------------------|---------------|-----------|-----------------------------------------------------------------|
 | Aus Knopf      | Req. 1.1, Req. 1.2 | Buttons |
 | An Knopf      | Req. 1.2, Req. 2.1 | Buttons  |
