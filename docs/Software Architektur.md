@@ -16,24 +16,3 @@
 | Kontrolleinheit | Microcontroller | Kontrolliert abhängig von dem angegebenen Modus wie viel Energie zum Rotor weitergeleitet wird, um die Stärke zu regulieren                   |
 | Rotor  | Funktionseinheit       | Dreht sich wenn Energiezufuhr passiert |
 
-# Schnittstellen:
-
-| **Requirements**                                                                          | **Sender**                                                    | **Empfänger**      | **Syntax**  | **Daten**                                                                      | **Testfall**                                                                          |
-|---------------------|---------------|-----------|---------------------------|-------|-------------------------------|
-| Req. 1.1 | Aus Knopf | Leistungsmodul | Asynchron | keine | TBD|
-| Req. 1.2 | Kontrolleinheit | Leise Modus Knopf, Stufe 1 Knopf, Stufe 2 Knopf | Asynchron | keine | TBD|
-| Req. 2.1 | An Knopf | Leistungsmodul | Asynchron | keine | TBD|
-| Req. 2.2 | Kontrolleinheit | Leistungsmodul | Synchron | True/False | TBD|
-| Req. 3.1 | Leistungsmodul | Leistungs | Synchron | True/False | TBD|
-| Req. 3.2 | Leistungsmodul | Kontrolleinheit | Asynchron | True/False | TBD|
-| Req. 4.1 | Kontrolleinheit | Leistungsmodul | Synchron | True/False | TBD|
-| Req. 4.2 | Kontrolleinheit | Kontrolleinheit | Synchron | Aktiv-status | TBD|
-| Req. 4.3 | Kontrolleinheit | Rotor | Asynchron | keine | TBD|
-| Req. 4.4 | Kontrolleinheit | Rotor | Asynchron | keine | TBD|
-| Req. 4.5 | Kontrolleinheit | Leise Modus Knopf / Stufe 1 Knopf / Stufe 2 Knopf | Asynchron | keine | TBD|
-| Req. 4.7 | Leise Modus Knopf / Kontrolleinheit | Kontrolleinheit / Rotor | Asynchron | keine | TBD|
-| Req. 4.8 | Stufe 1 Modus Knopf / Kontrolleinheit | Kontrolleinheit / Rotor | Asynchron | keine | TBD|
-| Req. 4.9 | Stufe 2 Modus Knopf / Kontrolleinheit | Kontrolleinheit / Rotor | Asynchron | keine | TBD|
-| Req. 5.1 | Kontrolleinheit | Kontrolleinheit | Synchron | Aktiv-status | TBD|
-| Req. 5.2 | Kontrolleinheit | Kontrolleinheit | Synchron | True/False | TBD|
-| Req. 5.3 | Kontrolleinheit | Kontrolleinheit | Asynchron | Überschneidungssignal | TBD|
