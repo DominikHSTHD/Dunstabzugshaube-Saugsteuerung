@@ -4,7 +4,7 @@ Teilfunktionen:
 
     1. Abstell-Funktion
     2. Anschalt-Funktion
-    3. Powermodus Prüfungs Funktion
+    3. Bereitschaftsmodus Prüfungs Funktion
     4. Saugmodus Aktivierungs Funktion
     5. Überschneidungstest Funktion
 
@@ -13,12 +13,12 @@ Funktionale Requierements:
 
     R 1.1: Die Power der Dunstabzugshaube muss abgestellt werden
 
-    R 2.1: Die Power der Dunstabzugshaube muss angeschalten werden
+    R 2.1: Die Power der Dunstabzugshaube muss angeschalten werden und der Bereitschaftsmodus wird aktiviert
 
     R 3.1: Es muss geprüft werden ob die Dunstagszugshaube aktiv angeschaltet ist
-    R 3.2: Ein "Okay" Signal muss zurückgeben werden, falls die Power aktiv angeschalten ist
+    R 3.2: Ein "Okay" Signal muss zurückgeben werden, falls der Bereitschaftsmodus  aktiv angeschalten ist
 
-    R 4.1: Es muss geprüft werden ob die Power angeschalten ist, falls nein passiert nichts
+    R 4.1: Es muss geprüft werden ob der Bereitschaftsmodus aktiviert ist, falls nein passiert nichts
     R 4.2: Es muss auf Überschneidung geprüft werden
     R 4.4: Der bisher aktivierte Modus muss deaktiviert werden
     R 4.7: Bei Aktivieren des Leise Modus, muss der Rotor mit 25 Watt aktiviert werden und der Leise Modus Knopf einrasten
@@ -34,7 +34,7 @@ Nicht-Funktionale Requierements:
     R 1.2: Alle Knöpfe sollen ausrasten
     R 1.3: Der Rotor soll von selbst langsam abbremsen
 
-    R 2.2: Falls die Power schon an ist soll nichts anderes passieren
+    R 2.2: Falls der Bereitschaftsmodus schon aktiviert ist soll nichts anderes passieren
 
     R 4.3: Bei Überschneidung soll keine Veränderung vorgenehmen werden
     R 4.5: Der Knopf des bisher aktiven Modus soll ausrasten
