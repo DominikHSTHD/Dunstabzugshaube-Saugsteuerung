@@ -15,7 +15,7 @@ Funktionale Requierements:
 
     R 2.1: Die Power der Dunstabzugshaube muss angeschalten werden und der Bereitschaftsmodus wird aktiviert
 
-    R 3.1: Es muss geprüft werden ob die Dunstagszugshaube aktiv angeschaltet ist
+    R 3.1: Es muss geprüft werden ob der Bereitschaftsmodus angeschalten ist
     R 3.2: Ein "Okay" Signal muss zurückgeben werden, falls der Bereitschaftsmodus  aktiv angeschalten ist
 
     R 4.1: Es muss geprüft werden ob der Bereitschaftsmodus aktiviert ist, falls nein passiert nichts
