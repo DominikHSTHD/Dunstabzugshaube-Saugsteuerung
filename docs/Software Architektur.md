@@ -19,7 +19,7 @@
 # Schnittstellen:
 
 | **Requirements**                                                                          | **Sender**                                                    | **Empfänger**      | **Syntax**  | **Daten**                                                                      | **Testfall**                                                                          |
-|---------------------|---------------|-----------|----------------------------------|-------------------------------|
+|---------------------|---------------|-----------|---------------------------|-------|-------------------------------|
 | Req. 1.1 | Aus Knopf | Leistungsmodul | Asynchron | keine | TBD|
 | Req. 1.2 | Kontrolleinheit | Leise Modus Knopf, Stufe 1 Knopf, Stufe 2 Knopf | Asynchron | keine | TBD|
 | Req. 2.1 | An Knopf | Leistungsmodul | Asynchron | keine | TBD|
