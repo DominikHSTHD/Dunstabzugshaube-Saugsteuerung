@@ -9,5 +9,5 @@
 |---------------------|----------------------------|--------------------------------------------------------------------------|
 | Knöpfe       | Interaktions-Hardware       | Interaktionsbereich für User und bestimmtes Signal je betätogten Knopfes an Kontrolleinheit geben |
 | Leistungsmodul        | Stromzufuhrkontrolle  | Zu- und Abstellen von Strom für den Rotor|
-| Kontrolleinheit | Kontrolleinheit | Kontrolliert abhängig von dem angegebenen Modus wie viel Energie zum Rotor weitergeleitet wird, um die Stärke zu regulieren                   |
+| Kontrolleinheit | Microcontroller | Kontrolliert abhängig von dem angegebenen Modus wie viel Energie zum Rotor weitergeleitet wird, um die Stärke zu regulieren                   |
 | Rotor  | Funktionseinheit       | Dreht sich wenn Energiezufuhr passiert |
