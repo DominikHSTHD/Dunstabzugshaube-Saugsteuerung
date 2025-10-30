@@ -7,8 +7,8 @@
 
 | **Komponente**      | **Rolle**                  | **Verantwortlichkeiten**                                                 |
 |---------------------|----------------------------|--------------------------------------------------------------------------|
-| An Knopf       | User Interface       | Sendet Signal an Kontrolleinheit Bereitschaftsmodus zu aktivieren |
 | Aus Knopf       | User Interface       | Sendet Signal an Kontrolleinheit momentanen Modus und sich selbst aus zu schalten |
+| An Knopf       | User Interface       | Sendet Signal an Kontrolleinheit Bereitschaftsmodus zu aktivieren |
 | Leise Modus Knopf       | User Interface       | Sendet Signal an Kontrolleinheit Leise Modus des Rotors zu aktivieren |
 | Stufe 1 Knopf       | User Interface       | Sendet Signal an Kontrolleinheit Stufe 1 des Rotors zu aktivieren |
 | Stufe 2 Knopf       | User Interface       | Sendet Signal an Kontrolleinheit Stufe 2 des Rotors zu aktivieren |
