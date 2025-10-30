@@ -7,7 +7,11 @@
 
 | **Komponente**      | **Rolle**                  | **Verantwortlichkeiten**                                                 |
 |---------------------|----------------------------|--------------------------------------------------------------------------|
-| Knöpfe       | Interaktions-Hardware       | Interaktionsbereich für User und bestimmtes Signal je betätogten Knopfes an Kontrolleinheit geben |
+| An Knopf       | User Interface       | Sendet Signal an Kontrolleinheit Bereitschaftsmodus zu aktivieren |
+| Aus Knopf       | User Interface       | Sendet Signal an Kontrolleinheit momentanen Modus und sich selbst aus zu schalten |
+| Leise Modus Knopf       | User Interface       | Sendet Signal an Kontrolleinheit Leise Modus des Rotors zu aktivieren |
+| Stufe 1 Knopf       | User Interface       | Sendet Signal an Kontrolleinheit Stufe 1 des Rotors zu aktivieren |
+| Stufe 2 Knopf       | User Interface       | Sendet Signal an Kontrolleinheit Stufe 2 des Rotors zu aktivieren |
 | Leistungsmodul        | Stromzufuhrkontrolle  | Zu- und Abstellen von Strom für den Rotor|
 | Kontrolleinheit | Microcontroller | Kontrolliert abhängig von dem angegebenen Modus wie viel Energie zum Rotor weitergeleitet wird, um die Stärke zu regulieren                   |
 | Rotor  | Funktionseinheit       | Dreht sich wenn Energiezufuhr passiert |
