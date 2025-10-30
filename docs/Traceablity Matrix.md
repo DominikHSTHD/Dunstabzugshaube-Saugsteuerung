@@ -1,4 +1,4 @@
-| **Komponente**      | **Requirements**                                                                          |
+| **Komponente**      | **Requirements**                                                                          | **Klassen**                                                                          | **Schnittstelle**                                                                          | **Testfall**                                                                          |
 |---------------------|-------------------------------------------------------------------------------------------|
 | Knöpfe      | Req. 1.2, Req. 4.5, Req. 4.7, Req. 4.8, Req. 4.9 |
 | Leistungsmodul        | Req. 1.1, Req. 2.1, Req. 2.2, Req. 3.1, Req. 3.2 |
