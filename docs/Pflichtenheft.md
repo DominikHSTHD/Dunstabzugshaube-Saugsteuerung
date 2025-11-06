@@ -25,8 +25,10 @@ Funktionale Requierements:
     R 4.4: Der bisher aktivierte Modus muss deaktiviert werden
     R 4.7: Wenn der Leise-Modus-Knopf gedrückt wird, muss der Rotor mit 25 Watt aktiviert werden 
            und der Leise Modus Knopf einrasten
-    R 4.8: Wenn der Stufe-1-Knopf gedrückt wird, muss der Rotor mit 50 Watt aktiviert werden und der Stufe 1 Knopf einrasten
-    R 4.9: Wenn der Stufe-2-Knopf gedrückt wird, muss der Rotor mit 75 Watt aktiviert werden und der Stufe 2 Knopf einrasten
+    R 4.8: Wenn der Stufe-1-Knopf gedrückt wird, muss der Rotor mit 50 Watt aktiviert werden 
+           und der Stufe 1 Knopf einrasten
+    R 4.9: Wenn der Stufe-2-Knopf gedrückt wird, muss der Rotor mit 75 Watt aktiviert werden 
+           und der Stufe 2 Knopf einrasten
 
     R 5.1: Es muss geprüft werden welcher Modus bisher aktiviert ist
     R 5.2: Bisheriger Modus muss mit Modus der aktiviert werden soll verglichen werden
