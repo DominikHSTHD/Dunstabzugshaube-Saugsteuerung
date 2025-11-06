@@ -13,7 +13,7 @@ Funktionale Requierements:
 
     R 1.1: Die Power der Dunstabzugshaube muss abgestellt werden
 
-    R 2.1: Die Power der Dunstabzugshaube muss angeschalten werden und der Bereitschaftsmodus wird aktiviert
+    R 2.1: Wenn der An-Knopf gedrückt wird, muss die Power der Dunstabzugshaube im Leistungsmodul angeschalten werden und der Bereitschaftsmodus wird aktiviert
 
     R 3.1: Die Leistunsgseinheit muss prüfen, ob die Daten angeben, dass der Bereitschaftsmodus aktiviert ist
     R 3.2: Ein "Okay" Signal muss zurückgeben werden, falls der Bereitschaftsmodus  aktiv angeschalten ist
