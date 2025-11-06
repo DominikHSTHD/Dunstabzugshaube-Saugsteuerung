@@ -1,7 +1,8 @@
 # Traceability Matrix:
 
-| **Requierements**   |   **Komponente**  | **Klasee** | **Testfall** |
+| **Requierements**   |   **Komponente**  | **Klasse** | **Testfall** |
 |-------|--------|-------|-------|
+| | | | |
 | **Sprint 1:**  |   |   |   | 
 | Req. 1.1  |  Aus-Knopf/Leistungsmodul  | KNÖPFE/LEISTUNGSMODUL  |  TBD  | 
 | Req. 1.3  |  Rotor  |  ROTOR  |  TBD  | 
@@ -10,13 +11,15 @@
 | Req. 3.1  | Leistungsmodul   |  LEISTUNGSMODUL  |  TBD  | 
 | Req. 3.2  |  Leistungsmodul  |  LEISTUNGSMODUL  |  TBD  |
 | | | |
+| | | |
 | **Sprint 2:**  | | | | 
-| Req.   |    |    |    | 
-| Req.   |    |    |    | 
-| Req.   |    |    |    | 
-| Req.   |    |    |    | 
-| Req.   |    |    |    | 
-| Req.   |    |    |    |
+| Req. 1.2  |  Aus-Knopf  |  KNÖPFE  |  TBD  | 
+| Req. 4.1  |  Kontrolleinheit  |  KONTROLLEINHEIT  |  TBD  | 
+| Req. 4.4  |  Kontrolleinheit  |    |    | 
+| Req. 4.7  |    |    |    | 
+| Req. 4.8  |    |    |    | 
+| Req. 4.9  |    |    |    |
+|  |  |  |  |
 |  |  |  |  |
 | **Sprint 3:**  |   |  |  | 
 | Req.   |    |    |    | 
