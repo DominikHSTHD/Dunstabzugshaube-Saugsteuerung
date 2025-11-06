@@ -1,6 +1,34 @@
 # Traceability Matrix:
 
-| **Komponente**      | **Requirements**                                                                          | **Klassen**                                                                                                                                              |
+| **Requierements**   |   **Komponente**  | **Klasee** | **Testfall** |
+|-------|--------|-------|-------|
+| **Sprint 1:**  |   |   |   | 
+| Req. 1.1  |  Aus-Knopf/Leistungsmodul  | KNÖPFE/LEISTUNGSMODUL  |  TBD  | 
+| Req. 1.3  |  Rotor  |  ROTOR  |  TBD  | 
+| Req. 2.1  |  An-Knopf/Leistungmodul  |  KNÖPFE/LEISTUNGSMODUL  |  TBD  | 
+| Req. 2.2  |  Leistungsmodul  |  LEISTUNGSMODUL  |  TBD  | 
+| Req. 3.1  | Leistungsmodul   |  LEISTUNGSMODUL  |  TBD  | 
+| Req. 3.2  |  Leistungsmodul  |  LEISTUNGSMODUL  |  TBD  |
+| | | |
+| **Sprint 2:**  | | | | 
+| Req.   |    |    |    | 
+| Req.   |    |    |    | 
+| Req.   |    |    |    | 
+| Req.   |    |    |    | 
+| Req.   |    |    |    | 
+| Req.   |    |    |    |
+|  |  |  |  |
+| **Sprint 3:**  |   |  |  | 
+| Req.   |    |    |    | 
+| Req.   |    |    |    | 
+| Req.   |    |    |    | 
+| Req.   |    |    |    | 
+| Req.   |    |    |    | 
+| Req.   |    |    |    |
+
+
+
+| **Komponente**      | **Requirements**                                       | **Klassen**                                       |
 |---------------------|--------------------------|-----------------------------------------------------------------|
 | Aus Knopf      | Req. 1.1, Req. 1.2 | Buttons |
 | An Knopf      | Req. 1.2, Req. 2.1 | Buttons  |
