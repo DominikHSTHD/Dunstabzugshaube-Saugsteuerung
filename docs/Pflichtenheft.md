@@ -17,7 +17,7 @@ Funktionale Requierements:
     R 2.1: Wenn der An-Knopf gedrückt wird, muss die Power der Dunstabzugshaube im Leistungsmodul angeschalten werden 
            und der Bereitschaftsmodus wird aktiviert
 
-    R 3.1: Wenn angefragt, die Leistunsgseinheit muss prüfen, ob der Bereitschaftsmodus aktiviert ist oder nicht.
+    R 3.1: Wenn angefragt, die Leistunsgsmodul muss prüfen, ob der Bereitschaftsmodus aktiviert ist oder nicht.
     R 3.2: Ein "Okay" Signal muss zurückgeben werden, falls der Bereitschaftsmodus  aktiv angeschalten ist
 
     R 4.1: Es muss geprüft werden ob der Bereitschaftsmodus aktiviert ist, falls nein passiert nichts
